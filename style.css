@@ -19,3 +19,10 @@ font-family: Helvetica, sans-serif;
 body {
 background-color: #fff2df;
 }
+
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
